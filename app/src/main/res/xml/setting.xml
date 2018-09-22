@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <fast.battery.charger.app.prefrence.mPreferenceCatagory
+        android:textColor="#F44336"
+        android:title="About Application">
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="MoreApp"
+            android:summary="Get more application from Fast Battery Charger 5X"
+            android:title="More Application" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="RateUs"
+            android:summary="Do you have a few seconds to rate this app? We want to hear your opinion"
+            android:title="Rate 5 Star" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="ShareApp"
+            android:summary="Can you please help us to spread in the world about Fast Battery Charger 5X"
+            android:title="Recommend to friends" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="About"
+            android:summary="About fast battery charger"
+            android:title="About us" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="FeedBack"
+            android:summary="Please give us feedback and any suggetion about Fast Battery Charger 5X"
+            android:title="Feedback" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="Version"
+            android:summary="0.0.0"
+            android:title="Version" />
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="Update"
+            android:summary="Check for new update"
+            android:title="Update" />
+
+    </fast.battery.charger.app.prefrence.mPreferenceCatagory>
+
+    <fast.battery.charger.app.prefrence.mPreferenceCatagory
+        android:textColor="#F44336"
+        android:title="Licence">
+
+        <fast.battery.charger.app.prefrence.mPreference
+            android:key="Licence"
+            android:summary="Licence"
+            android:title="Licence" />
+
+    </fast.battery.charger.app.prefrence.mPreferenceCatagory>
+
+</PreferenceScreen>
